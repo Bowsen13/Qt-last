@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>images/pad-midi.png</file>
+    <file>images/icons8-muet-16.png</file>
+    <file>images/icons8-arrêter-16.png</file>
+    <file>images/icons8-jouer-16.png</file>
+    <file>images/icons8-pause-16.png</file>
+  </qresource>
+</RCC>
